@@ -1,0 +1,4 @@
+light plum: #dda9c1
+maroon: #981238
+steel blue: #0070b3
+background: #222222
